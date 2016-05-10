@@ -4,6 +4,8 @@
 //
 //  Created by 乐校 on 16/5/3.
 //  Copyright © 2016年 lexiao. All rights reserved.
+
+//test2 提交测试
 //
 #define SCREEN_WIDTH ([UIScreen mainScreen].bounds.size.width)
 
